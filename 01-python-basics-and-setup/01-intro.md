@@ -82,5 +82,3 @@ You’ll complete a **real-world project** integrating everything:
 
 ---
 
-containing only **commands + tools + libraries + their purpose** (like a quick study card)?
-That’s super useful while doing projects or freelancing.
